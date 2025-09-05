@@ -5,3 +5,12 @@ Features
 - Text-based Input: Easily define your project's file and folder hierarchy using a simple, intuitive tree format.
 - Local Generation: Creates the full project structure directly in a specified directory on your computer.
 - Python-based: Built with the lightweight Flask framework.
+
+Example:
+
+The following is a simple and correct input format that will create the `my-first-test` project with nested folders and files.
+
+my-first-test/
+├── api/
+│   └── api.py
+└── core/
